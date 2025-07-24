@@ -1,0 +1,23 @@
+
+export const ZONALES = [
+  "Antofagasta",
+  "Arica",
+  "Calama",
+  "Chillán",
+  "Concepción",
+  "Copiapó",
+  "Coyhaique",
+  "Iquique",
+  "La Serena",
+  "Los Ángeles",
+  "Osorno",
+  "Puerto Montt",
+  "Punta Arenas",
+  "Rancagua",
+  "San Antonio",
+  "San Felipe",
+  "San Fernando",
+  "Talca",
+  "Temuco",
+  "Viña del mar",
+];
